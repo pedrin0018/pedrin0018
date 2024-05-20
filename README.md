@@ -1,16 +1,13 @@
-## Hi there 👋
+###Boas vindas ao meu perfil 💙
 
-<!--
-**pedrin0018/pedrin0018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Pedro Vitor
 
-Here are some ideas to get you started:
+-estou estudando Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou desenvolvendo na linguagem javascript
+
+-Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
+
+
+###Voce pode entrar em contato comigo 📧
+pedrodograu095@gmail.com
